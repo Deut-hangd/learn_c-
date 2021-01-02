@@ -1,0 +1,29 @@
+﻿生成启动时间为 2021/1/2 23:56:24。
+     1>项目“E:\Visual Studio 2013\learn C++\class_test1202\class_test1202\class_test1202.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\visual studio2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "string练习.cpp"
+         string练习.cpp
+       Link:
+         F:\visual studio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Visual Studio 2013\learn C++\class_test1202\Release\class_test1202.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Visual Studio 2013\learn C++\class_test1202\Release\class_test1202.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Visual Studio 2013\learn C++\class_test1202\Release\class_test1202.lib" /MACHINE:X86 /SAFESEH "Release\const练习.obj"
+         Release\heaponly.obj
+         Release\memory_layout.obj
+         Release\new_and_delete.obj
+         Release\singleton.obj
+         "Release\static练习.obj"
+         "Release\string练习.obj"
+         Release\template.obj
+         "Release\成员变量初始化.obj"
+         "Release\拷贝构造练习(深).obj"
+         "Release\拷贝构造练习(浅).obj"
+         "Release\析构练习.obj"
+         "Release\源.obj"
+         "Release\赋值运算符重载默认.obj"
+         "Release\隐式转换.obj"
+         正在生成代码
+         已完成代码的生成
+         class_test1202.vcxproj -> E:\Visual Studio 2013\learn C++\class_test1202\Release\class_test1202.exe
+     1>已完成生成项目“E:\Visual Studio 2013\learn C++\class_test1202\class_test1202\class_test1202.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.39
