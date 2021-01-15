@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/Codes/C++/workspace/SqList20210115/build",
+  "command": "E:\\PROGRA~1\\vscode\\mingw64\\bin\\G__~1.EXE    -g   -o CMakeFiles\\a.dir\\main.cpp.obj -c E:\\Codes\\C++\\workspace\\SqList20210115\\main.cpp",
+  "file": "E:/Codes/C++/workspace/SqList20210115/main.cpp"
+},
+{
+  "directory": "E:/Codes/C++/workspace/SqList20210115/build",
+  "command": "E:\\PROGRA~1\\vscode\\mingw64\\bin\\G__~1.EXE    -g   -o CMakeFiles\\a.dir\\SqList.cpp.obj -c E:\\Codes\\C++\\workspace\\SqList20210115\\SqList.cpp",
+  "file": "E:/Codes/C++/workspace/SqList20210115/SqList.cpp"
+}
+]

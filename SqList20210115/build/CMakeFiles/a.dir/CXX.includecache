@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Codes/C++/workspace/SqList20210115/SqList.cpp
+iostream
+-
+malloc.h
+-
+sq_list.h
+E:/Codes/C++/workspace/SqList20210115/sq_list.h
+
+E:/Codes/C++/workspace/SqList20210115/sq_list.h
+
